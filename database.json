@@ -1,0 +1,29 @@
+[
+    {
+        "user_id":1,
+        "usename": "Vanessa",
+        "user_email": "vanessa@gmail.com",
+        "user_status": 0
+    },
+    {
+        "user_id":2,
+        "usename": "Kelle",
+        "user_email": "kelle@gmail.com",
+        "user_status": 0
+    },{
+        "user_id":3,
+        "usename": "Patricia",
+        "user_email": "patricia@gmail.com",
+        "user_status": 0
+    },{
+        "user_id":4,
+        "usename": "Gustavo",
+        "user_email": "gustavo@gmail.com",
+        "user_status": 0
+    },{
+        "user_id":5,
+        "usename": "Rodrigo",
+        "user_email": "rodrigo@gmail.com",
+        "user_status": 0
+    }
+]
